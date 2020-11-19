@@ -1,0 +1,29 @@
+.our-card {
+    padding: 30px 10px;
+    padding-top: 40px;
+    border-top-left-radius: 70px !important;
+    border-bottom-right-radius: 70px !important;
+    background-color: inherit !important;
+    border: none !important;
+}
+
+.our-card:hover {
+    box-shadow: 4px 5px 10px 0px #e6e3e3;
+    background-color: white !important;
+    cursor: pointer;
+}
+
+.our-card img {
+    width: 80px;
+    margin: auto !important;
+}
+
+.our-card h5 {
+    color: #0d052e !important;
+}
+.our-card p{
+    font-size: 14px;
+    max-width: 12rem;
+    margin: auto;
+    color: #8e8e8e;
+}

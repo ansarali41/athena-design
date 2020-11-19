@@ -1,0 +1,14 @@
+#what-we-do {
+    background-color: #fafffd;
+}
+
+#what-we-do h1 {
+    font-family: 'Yeseva One', cursive;
+    color: #0d052e;
+}
+
+.wwd-p {
+    max-width: 400px;
+    margin: auto;
+    color: #8e8e8e;
+}

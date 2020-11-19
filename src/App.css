@@ -1,24 +1,28 @@
-#btnstyle{
- background:  linear-gradient(to right, #00d2ff 0%, #3a7bd5 100%);
- border-top-left-radius:25px;
- border-bottom-right-radius: 20px;
- padding: 9px 20px;
+#btnstyle {
+  background: linear-gradient(135deg, #1cd8ba 0%, #06abee 100%);
+  border-top-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  padding: 10px 25px;
+  border: none;
 }
-.content{
+
+.content {
   margin-top: 20px;
   padding: 10px;
 }
-#headerTitle{
+
+#headerTitle {
   font-family: 'Yeseva One', cursive;
-  font-size: 70px;
-  line-height: 50px;
-  color: #0D052E;
+  font-size: 80px;
+  line-height: 60px;
+  color: #0d052e;
 }
-@media screen and (max-width:800PX){
-  #headerTitle{
+
+@media screen and (max-width:800PX) {
+  #headerTitle {
     font-family: 'Yeseva One', cursive;
     font-size: 36px;
     line-height: 40px;
-    color: #0D052E;
+    color: #0d052e;
   }
 }
