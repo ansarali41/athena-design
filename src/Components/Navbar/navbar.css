@@ -1,0 +1,19 @@
+#navlink a{
+    color: black;
+    font-size: 16px;
+    padding: 5px 20px;
+    text-decoration: none;
+}
+#navlink .active{
+    font-weight: 700;
+     
+}
+#control span{
+    color: white;
+    background-color: #FCD842;
+}
+@media screen and (max-width:988px){
+    .nabButton{
+        margin-top: 10px;
+    }
+}
