@@ -11,8 +11,8 @@ const Header = () => {
                 <Row>
                     <Col md={5} style={{marginTop:"5%",padding:"20px"}}> 
                         <h1 id="headerTitle">Florence agency </h1>
-                        <p style={{padding:"30px 0px",color:"#777"}} >Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia ratione at neque adipisci, nihil veritatis consequuntur obcaecati placeat atque sint illo eveniet minima amet quisquam molestiae corrupti deserunt aperiam alias!</p>
-                        <Button id="btnstyle">See pricing</Button>
+                        <p style={{padding:"30px 0px",color:"#8e8e8e"}} >Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia ratione at neque adipisci, nihil veritatis consequuntur obcaecati placeat atque sint illo eveniet minima amet!</p>
+                        <Button id="btnstyle">See Pricing</Button>
                     </Col>
                     <Col md={7} style={{textAlign:"right",padding:"20px",marginTop:"15px"}}>
                         <img src={headerImg} alt="" width ="90%"/>
