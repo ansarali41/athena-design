@@ -5,7 +5,7 @@ import { Button } from 'react-bootstrap';
 
 const RunningProject = () => {
     return (
-        <section id='running-project'>
+        <section className='running-project' id='service'>
             <div className="container py-3">
                 <div className="row">
                     <div className="col-md-6">

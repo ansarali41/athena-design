@@ -1,11 +1,11 @@
-#running-project img {
+.running-project img {
     width: 95%;
 }
 
-#running-project h1 {
+.running-project h1 {
     font-family: 'Yeseva One', cursive;
     color: #0d052e;
 }
-#running-project p{
+.running-project p{
     color: #8e8e8e;
 }
