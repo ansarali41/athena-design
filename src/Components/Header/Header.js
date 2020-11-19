@@ -4,7 +4,7 @@ import NavBar from '../Navbar/NavBar';
 import headerImg from '../../image-icon/header-image.png'
 const Header = () => {
     return (
-        <div>
+        <div id='home'>
             <Container>
             <NavBar></NavBar>
             <div className="content">

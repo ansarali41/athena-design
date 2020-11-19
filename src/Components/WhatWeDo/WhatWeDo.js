@@ -32,7 +32,7 @@ const WhatWeDo = () => {
     ]
 
     return (
-        <section id='what-we-do' className='text-center my-5 py-5'>
+        <section id='about' className='text-center my-5 py-5 what-we-do'>
             <div className="container">
                 <h1 className='mt-3'>What We Do</h1>
                 <p className='wwd-p'>Our main focus is to make the User Experience very simple and easy. Simplicity is our Strength.</p>

@@ -13,10 +13,10 @@ const NavBar = () => {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ml-auto" id="navlink" variant=""  defaultActiveKey="home">
             <Nav.Link href="#home" eventKey='home'>Home</Nav.Link>
-            <Nav.Link href="#link" eventKey='portfolio'>About</Nav.Link>
-            <Nav.Link href="#link" eventKey='team'>Services</Nav.Link>
-            <Nav.Link href="#link" eventKey='contact'>Pricing</Nav.Link>      
-            <Nav.Link href="#link" eventKey='contact'>Our Team</Nav.Link>      
+            <Nav.Link href="#about" eventKey='about'>About</Nav.Link>
+            <Nav.Link href="#service" eventKey='services'>Services</Nav.Link>
+            <Nav.Link href="#pricing" eventKey='pricing'>Pricing</Nav.Link>      
+            <Nav.Link href="#team" eventKey='team'>Our Team</Nav.Link>      
             
 
             
