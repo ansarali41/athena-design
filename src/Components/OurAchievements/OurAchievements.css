@@ -1,0 +1,17 @@
+#ourAchievements-cards {
+  background-color: white;
+  border-top-right-radius: 40px;
+  border-bottom-left-radius: 40px;
+  padding: 10px 25px;
+  border: none;
+}
+#ourAchievements-cards:hover {
+ background: linear-gradient(135deg, #06abee 0%, #1cd8ba 100%);
+}
+.icon-color{
+    filter: grayscale(100%);
+    background-color: gray;
+}
+.achievement-card{
+    width: 290px;
+}

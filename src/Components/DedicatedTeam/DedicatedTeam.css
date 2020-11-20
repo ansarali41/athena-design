@@ -1,0 +1,6 @@
+#dedicatedTeam-cards{
+ border-radius: 5px;
+}
+#dedicatedTeam-cards:hover {
+    background: linear-gradient(180deg, #1cd8ba 0%, #06abee 100%);
+}
