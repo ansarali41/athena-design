@@ -47,5 +47,18 @@
     width: 35px;
 }
 .footer-style{
-    padding-left: 100px;
+    margin-top: 20px;
+}
+.footer-style ul li{
+    list-style: none;
+    padding: 3px 0px;
+    font-size: 20px;
+}
+#logo {
+   
+
+}
+#logo img{
+    padding: 10px;
+     width: 8%;
 }
